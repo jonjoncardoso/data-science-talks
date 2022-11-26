@@ -11,7 +11,70 @@ format:
     fig-cap-location: "top"
 ---
 
-# What do we mean by data science?
+## Who am I {.smaller}
+
+![](figures/JonathanCardosoSilva_2022.jpg){.absolute width="20%" left="15%" top="28.5%"}
+
+::: columns
+
+::: {.column width="40%"}
+:::
+
+::: {.column style="width:60%;font-size:0.85em;"}
+<br/>
+<br/>
+
+**Dr. Jonathan Cardoso-Silva**
+
+- Assist. Prof. Lecturer at LSE Data Science Institute
+- PhD in Computer Science
+- **Background**: Engineering, Bio & Health Informatics
+- Former **Lead Data Scientist**
+- Research: 
+    - Networks
+    - Optimisation
+    - Machine Learning applications
+    - Data Science Workflow
+
+:::
+
+:::
+
+## Our courses {.smaller}
+
+The LSE Data Science Institute offer accessible introductions to Data Science:
+
+::: columns
+::: {.column style="width: 30%;border-style: dotted;border-width: 1px;border-color: \"#fefefe\"; margin-right:0.5%;padding:1%;"}
+### DS101 {style="margin: 0em;"}
+**Fundamentals of <br/> Data Science**
+
+🎯 Focus: <br/> theoretical concepts of data science
+
+📂 How: <br/> reflections through reading and writing
+:::
+
+::: {.column style="width: 32%;border-style: dotted;border-width: 1px;border-color: \"#fefefe\"; margin-right:0%;padding:1%;"}
+### DS105 {style="margin-left: 0em;"}
+**Data for <br/> Data Scientists**
+
+🎯 Focus: <br/>collection and handling of real data
+
+📂 How: <br/>hands-on coding exercises and a group project
+:::
+
+::: {.column style="width: 29%;border-style: dotted;border-width: 1px;border-color: \"#fefefe\"; margin-left:0.5%;padding:1%;"}
+### DS202 {style="margin-left: 0em;"}
+**Data Science for <br/> Social Scientists**
+
+🎯 Focus: <br/>fundamental machine learning algorithms
+
+📂 How: <br/>practical use of ML techniques and metrics
+:::
+:::
+
+
+# What do you mean by data science?
 
 ## Data science is...
 
